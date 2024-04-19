@@ -10,6 +10,10 @@ public class Calculadora {
 		mr = a+b;
 		return mr;
 	}
+	public int resta(int a, int b) {
+		mr = a-b;
+		return mr;
+	}
 	
 	
 }
